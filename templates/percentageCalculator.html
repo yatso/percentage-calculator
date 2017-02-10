@@ -1,0 +1,31 @@
+<ion-view title="Percentage Calculator" id="page1">
+  <ion-content padding="false" class=" manual-remove-top-padding has-header" scroll="false">
+    <div class="list card" id="percentageCalculator-card22">
+      <div class="item item-body" id="percentageCalculator-list-item-container4">
+        <div id="percentageCalculator-markdown5" style="text-align:center;" class="show-list-numbers-and-dots">
+          <p style="margin-top:0px;color:#505050;">Simple way to calculate % of 2 numbers</p>
+        </div>
+      </div>
+    </div>
+    <div class="list card manual-card-fullwidth" id="percentageCalculator-card21">
+      <div class="item item-body" id="percentageCalculator-list-item-container2">
+        <form id="percentageCalculator-form1" class="list">
+          <label class="item item-input item-stacked-label" id="percentageCalculator-input1">
+            <span class="input-label">1st Number</span>
+            <input type="number" placeholder="e.g., 75" ng-model="data.num1">
+          </label>
+          <div id="percentageCalculator-markdown3" style="text-align:center;" class="show-list-numbers-and-dots">
+            <p style="color:#B1B1B1;">is what percentage of</p>
+          </div>
+          <div class="spacer" style="width: 308px; height: 19px;"></div>
+          <label class="item item-input item-stacked-label" id="percentageCalculator-input2">
+            <span class="input-label">2nd Number</span>
+            <input type="number" placeholder="e.g., 1550" ng-model="data.num2">
+          </label>
+          <button id="percentageCalculator-button1" ng-click="data.calculate()" class="button button-positive  button-block">Calculate</button>
+          <ion-item class="assertive  center" id="percentageCalculator-list-item5">Result: {{data.result | number:2}}%</ion-item>
+        </form>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
