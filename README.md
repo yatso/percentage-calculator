@@ -5,7 +5,7 @@
 
 # Percentage Calculator
 
-Percentage Calcular mobile web app built with Ionic(HTML/CSS/AngularJS) in 10 min
+Percentage Calculator mobile web app built with Ionic(HTML/CSS/AngularJS) in 10 min
 
 ## Authors
 
