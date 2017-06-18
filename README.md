@@ -2,7 +2,8 @@
 </a>
 
 ## Ionic Creator Demo: https://creator.ionic.io/share/d501644b0f33
-## Live Github Pages Demo: http://yatso.github.io/percentage-calculator
+
+## Github Pages Demo: http://yatso.github.io/percentage-calculator
 
 # Percentage Calculator
 
