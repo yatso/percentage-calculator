@@ -1,4 +1,4 @@
-<a href="http://yatso.github.io/percentage-calculator"><img src="images/your-todo-list-screenshot.png" width="550px">
+<a href="http://yatso.github.io/percentage-calculator"><img src="images/percentage-calculator-screenshot.png" width="350px">
 </a>
 
 ## Live Demo: http://yatso.github.io/percentage-calculator
