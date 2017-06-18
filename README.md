@@ -1,7 +1,8 @@
-<a href="http://yatso.github.io/percentage-calculator"><img src="images/percentage-calculator-screenshot.png" width="200px">
+<a href="https://creator.ionic.io/share/d501644b0f33"><img src="images/percentage-calculator-screenshot.png" width="200px">
 </a>
 
-## Live Demo: http://yatso.github.io/percentage-calculator
+## Ionic Creator Demo: https://creator.ionic.io/share/d501644b0f33
+## Live Github Pages Demo: http://yatso.github.io/percentage-calculator
 
 # Percentage Calculator
 
