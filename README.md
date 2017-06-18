@@ -10,5 +10,3 @@ Percentage Calcular mobile web app built with Ionic(HTML/CSS/AngularJS) in 10 mi
 ## Authors
 
 * **Yat So**  - [yatso](https://github.com/yatso)
-
-See also the list of [contributors](https://github.com/yatso/todo-list-vanillajs/contributors) who participated in this project.
